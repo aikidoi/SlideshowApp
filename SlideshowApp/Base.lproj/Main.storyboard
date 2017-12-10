@@ -40,7 +40,7 @@
                                 </connections>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cNT-Zo-qt2">
-                                <rect key="frame" x="191.66666666666666" y="370" width="31" height="30"/>
+                                <rect key="frame" x="192" y="370" width="31" height="30"/>
                                 <state key="normal" title="再生"/>
                                 <connections>
                                     <action selector="playstopButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="IGL-C7-bcs"/>
